@@ -1,6 +1,6 @@
 public class factorialcalculator {
     public static void main(String[] args) {
-        int num = 11;
+        int num = 20;
         System.out.println(num);
     }
 }
